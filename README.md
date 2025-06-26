@@ -193,22 +193,11 @@ jupyter
 ## 📄 Example Notebook Preview
 
 <p align="center">
-  <img src="![Screenshot 2025-06-26 185527](https://github.com/user-attachments/assets/6f454a3c-8bc1-48de-abff-10d74f25ca5c)" alt="Monthly Sales Trend Example" style="margin: 8px; border-radius: 8px;">
-  <img src="![Screenshot 2025-06-26 185541](https://github.com/user-attachments/assets/ef274490-8db6-4f3a-9e05-9a08da2733f2)" alt="Feature Importance Example" style="margin: 8px; border-radius: 8px;">
-  <img src="![Screenshot 2025-06-26 185626](https://github.com/user-attachments/assets/359c9fe3-d8f0-40ea-80cb-4a03820266b7)" alt="Forecast Plot Example" style="margin: 8px; border-radius: 8px;">
-  <img src="(https://github.com/user-attachments/assets/f7089b85-8a17-46e0-9889-1e3eefd83f19)" alt="Forecast Plot Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/6f454a3c-8bc1-48de-abff-10d74f25ca5c" alt="Monthly Sales Trend Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/ef274490-8db6-4f3a-9e05-9a08da2733f2" alt="Feature Importance Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/359c9fe3-d8f0-40ea-80cb-4a03820266b7" alt="Forecast Plot Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/f7089b85-8a17-46e0-9889-1e3eefd83f19" alt="Another Example" style="margin: 8px; border-radius: 8px;">
 </p>
-
----
-
-## 💡 What More Can Be Included
-
-- **Sample outputs:** Add PNGs/GIFs of EDA and forecast results.
-- **Results & Insights:** Summarize key findings and business recommendations from your analysis.
-- **Live Demo:** If deployed, link to your Streamlit/Flask app.
-- **Unit Tests:** Scripts/tests for functions (in a `tests/` folder).
-- **Troubleshooting Section:** Document common errors and fixes.
-- **References:** Links to dataset, similar projects, or research papers.
 
 ---
 
