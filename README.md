@@ -193,10 +193,10 @@ jupyter
 ## 📄 Example Notebook Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f454a3c-8bc1-48de-abff-10d74f25ca5c" alt="Monthly Sales Trend Example" style="margin: 8px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/ef274490-8db6-4f3a-9e05-9a08da2733f2" alt="Feature Importance Example" style="margin: 8px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/359c9fe3-d8f0-40ea-80cb-4a03820266b7" alt="Forecast Plot Example" style="margin: 8px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/f7089b85-8a17-46e0-9889-1e3eefd83f19" alt="Another Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/6f454a3c-8bc1-48de-abff-10d74f25ca5c" width="350" alt="Monthly Sales Trend Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/ef274490-8db6-4f3a-9e05-9a08da2733f2" width="350" alt="Feature Importance Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/359c9fe3-d8f0-40ea-80cb-4a03820266b7" width="350" alt="Forecast Plot Example" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/f7089b85-8a17-46e0-9889-1e3eefd83f19" width="350" alt="Another Example" style="margin: 8px; border-radius: 8px;">
 </p>
 
 ---
